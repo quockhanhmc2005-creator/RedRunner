@@ -1,91 +1,44 @@
-# Red Runner
+# Lab 01 - Khám phá dự án RedRunner
 
-Red Runner, Awesome Platformer Game.
+## Thông tin sinh viên nhóm 21
+- **Họ tên**: [Trần Quốc Khánh]
+- **MSSV**: [2312646]
+- **Lớp**: [CTK47PM]
 
-It is now free and open source and always will be. :clap: :tada:
+## Thông tin sinh viên nhóm 21
+- **Họ tên**: [Trần Gia Huy]
+- **MSSV**: [2312637]
+- **Lớp**: [CTK47PM]
 
-| [:sparkles: Getting Started](#getting-started) | [:rocket: Download](#download) | [:camera: Screenshots](#screenshots) |
-| --------------- | -------- | ----------- |
+## Mô tả
+Bài thực hành Lab 01 môn **Game 2D Development with Unity**.
+Khám phá và phân tích dự án game RedRunner - một Platformer 2D mã nguô ̀n mở
+được phát triê ̉n bởi Bayat Games.
 
-<p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzcyNzg3Mi5wbmc=/original/AU5pWY.png" />
-</p>
-
-[:camera: See Screenshots](#screenshots)
-
-[:movie_camera: **See the Trailer**](https://youtu.be/MO2yJhgtMes)
-
-## Getting Started
-
-Follow the below instructions to get started with Red Runner source code:
-
-1. [Make sure you have all Requirements](#requirements)
-2. [Download Source Code](#download)
-3. Open Project in Unity and Enjoy!
-
-## Requirements
-
-Make sure you have the below requirements before starting:
-
-- [Unity Game Engine](https://unity3d.com) version **6000.2.6f2 (Unity 6)**
-- Basic Knowledge about Unity and C#
-
-## Download
-
-You can get access to Red Runner source code by using one of the following ways:
-
-- [:sparkles: Download Source Code](https://github.com/BayatGames/RedRunner/archive/master.zip)
-- [:fire: Download Source Code from Itch.io](https://bayat.itch.io/red-runner)
-- Clone the repository locally:
-
-```bash
-git clone https://github.com/BayatGames/RedRunner.git
-```
-
-Also you can the build version of the Red Runner using the following ways:
-
-- [:star: Download from Itch.io](https://bayat.itch.io/red-runner)
+## Các thay đô ̉i đã thực hiện
+1. Thay đô ̉i tô ́c độ chạy: [9 → [15]
+2. Thay đô ̉i lực nhảy: [12] → [24]
+3. Thay đô ̉i trọng lực: [1.5] → [3]
+4. Thêm Coin vào scene tại vị trí [x:10.15 - y:15.12 (qua bên phải thêm 4 đồng coin cùng hàng)]
 
 ## Screenshots
+[Chèn ảnh minh chứng tại đây]
+1. <img width="975" height="519" alt="image" src="https://github.com/user-attachments/assets/1ea58845-fbd7-4a98-9d71-840d2874bc12" />
+2. <img width="975" height="521" alt="image" src="https://github.com/user-attachments/assets/d8b85c15-b783-41a9-8d77-81a46a15afb7" />
+3. <img width="975" height="507" alt="image" src="https://github.com/user-attachments/assets/b64c8710-846d-49eb-a1ea-02b6a974e15d" />
+4. <img width="975" height="518" alt="image" src="https://github.com/user-attachments/assets/5828a728-24cb-4190-ab71-96c3e183c287" />
+5. <img width="975" height="519" alt="image" src="https://github.com/user-attachments/assets/5a99eb9d-2702-47a4-a99b-3c42fcec0a6f" />
+6. <img width="975" height="647" alt="image" src="https://github.com/user-attachments/assets/f3e7ffcb-a919-4d5b-8bf0-b9fd7333f950" />
+Hình bonus:
+<img width="975" height="461" alt="image" src="https://github.com/user-attachments/assets/bec67117-0bdb-468d-b08c-45bb884893bc" />
+<img width="691" height="247" alt="image" src="https://github.com/user-attachments/assets/e5ed0108-325b-423d-a935-4fda6197d806" />
+<img width="691" height="241" alt="image" src="https://github.com/user-attachments/assets/2d1e3d58-e3d2-42d2-9da0-a97b0e13ea0a" />
+<img width="683" height="336" alt="image" src="https://github.com/user-attachments/assets/8e588e7c-89c2-4d82-bfe5-e9543eef71b0" />
 
-<p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzczMjc2NS5wbmc=/original/HipFLL.png" />
-</p>
-
-<p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzczMjc2MC5wbmc=/original/mb636l.png" />
-</p>
-
-<p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzczMjc2OS5wbmc=/original/UyNp4U.png" />
-</p>
-
-<p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzczMjc3My5wbmc=/original/RAoMpO.png" />
-</p>
-
-## Credits
-
-- Graphics: [Free Platform Game Assets](https://bayat.itch.io/platform-game-assets)
-- Save System: [Save Game Pro - Save Everything](https://bayat.itch.io/save-game-pro-save-everything)
-- Game Engine: [Unity](https://unity3d.com/)
-- Thanks to all of the game development community for their awesome help.
-
-## Related
-
-- [Awesome Unity](https://github.com/RyanNielson/awesome-unity) - A curated list of awesome Unity assets, resources, and more.
-- [Games on GitHub](https://github.com/leereilly/games/) - 🎮 A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
-- [GameDev Resources](https://github.com/Kavex/GameDev-Resources) - 🎮 🎲 A wonderful list of Game Development resources.
-- [UnityLibrary](https://github.com/UnityCommunity/UnityLibrary) - 📚 Library of all kind of scripts, snippets & shaders for Unity.
-
-## Resources
-
-[:rocket: Patreon](https://www.patreon.com/BayatGames)
-
-[:newspaper: Support and News](https://github.com/BayatGames/Support)
-
-## License
-
-MIT @ [Bayat Games](https://github.com/BayatGames)
-
-Made with :heart: by [Bayat Games](https://github.com/BayatGames)
+## Kiến thức đã học được
+1. Cấu trúc và cách tổ chức một dự án Unity 2D (cách tổ chức các thư mục như Assets, Prefabs, Scripts, Scenes)
+2. Cách thiết kế giao diện Game (thêm coin collectable)
+3. Cơ chế va chạm trong Unity 2D (OnCollision, OnTrigger, ...)
+4. Cách điều khiển nhân vật bằng Rigidbody2D và Input
+5. Ý nghĩa của việc điều chỉnh thông số gameplay (tốc độ chạy, lực nhảy, trọng lực)
+6. Sử dụng Git và GitHub để quản lý code
